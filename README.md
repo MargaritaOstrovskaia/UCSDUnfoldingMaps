@@ -1,4 +1,5 @@
 # UCSDUnfoldingMaps
+https://github.com/MargaritaOstrovskaia/UCSDUnfoldingMaps.wiki.git
 
 INSTALLATION
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into Workspace', Select this folder, 'Finish')
