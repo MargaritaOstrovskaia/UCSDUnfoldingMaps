@@ -1,5 +1,5 @@
 # UCSDUnfoldingMaps
-https://github.com/MargaritaOstrovskaia/UCSDUnfoldingMaps.wiki.git
+https://github.com/MargaritaOstrovskaia/UCSDUnfoldingMaps/wiki/Earthquake-Map
 
 INSTALLATION
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into Workspace', Select this folder, 'Finish')
